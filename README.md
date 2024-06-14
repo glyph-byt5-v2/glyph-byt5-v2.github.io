@@ -1,4 +1,4 @@
-# Glyph-ByT5
+# Glyph-ByT5-v2
 
 Recently, Glyph-ByT5 has achieved highly accurate visual text rendering performance in graphic design images, but it still focuses only on English and performs relatively poorly in terms of visual appeal. In this work, we address these two fundamental limitations by presenting Glyph-ByT5-v2, which not only supports accurate visual text rendering for 10 different languages but also achieves much better aesthetic quality.
 
